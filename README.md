@@ -1,5 +1,5 @@
 <div align="center"><div align="center">
-    <img width="75" src="">Screenshot_20240623_140557_com.tencent.mobileqq.png</img>
+    <img width="75" src="">/Screenshot_20240623_140557_com.tencent.mobileqq.png</img>
 </div>
 
 <h1 align="center">Minecraft Bamboss服务器mao1城市建设计划(MBSMCBP)</h1>
